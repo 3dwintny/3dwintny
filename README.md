@@ -1,16 +1,37 @@
-## Hi there 👋
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?text=Hola+Soy+Edwin+Tony!&animation=fadeIn&type=waving&color=gradient&height=100" />
+</p>
 
-<!--
-**3dwintny/3dwintny** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 👋 Hola, soy Edwin Tony Mejía Paxtor
 
-Here are some ideas to get you started:
+**Desarrollador Full Stack** · 3 años de experiencia  
+Apasionado por crear soluciones web reales con React, Node.js, Django y PostgreSQL.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🛠️ Tech Stack
+![](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB) 
+![](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node-dot-js&logoColor=white) 
+![](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white) 
+![](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white)
+
+---
+
+## 📊 Estadísticas
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=EdwinTonyMejiaPaxtor&show_icons=true&theme=dark)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EdwinTonyMejiaPaxtor&layout=compact&theme=dark)  
+![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=EdwinTonyMejiaPaxtor&theme=dark)
+
+---
+
+## 📫 Contáctame
+📧 [edwinmejia4556@gmail.com](mailto:edwinmejia4556@gmail.com)  
+📱 [WhatsApp +502 5722 3341](https://wa.me/50257223341)  
+📸 [Instagram @m_edwintny](https://www.instagram.com/m_edwintny/)
+
+[![WhatsApp Badge](https://img.shields.io/badge/WhatsApp-+50257223341-25D366?style=for-the-badge&logo=whatsapp)](https://wa.me/50257223341)
+
+---
+
+> 💬 Si tienes un proyecto interesante o quieres colaborar, ¡hablemos!
+
