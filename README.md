@@ -4,7 +4,7 @@
 
 # 👋 Hola, soy Edwin Tony Mejía Paxtor
 
-**Desarrollador Full Stack** · 3 años de experiencia  
+**Desarrollador Full Stack** · 3+ años de experiencia  
 Apasionado por crear soluciones web reales con React, Node.js, Django y PostgreSQL.
 
 ---
