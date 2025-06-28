@@ -62,25 +62,6 @@
 - 🗂️ **Robust and documented** RESTful API
 - 🛡️ **Advanced security** with validations and sanitization
 
-### 🌟 Implemented Technical Features
-```typescript
-// Example of clean architecture implementation
-const useAuthenticatedApi = () => {
-  const dispatch = useAppDispatch();
-  const token = useAppSelector(selectAuthToken);
-  
-  return useMemo(() => 
-    createApiClient({
-      baseURL: process.env.VITE_API_URL,
-      token,
-      onUnauthorized: () => dispatch(logout())
-    }), [token, dispatch]
-  );
-};
-```
-
----
-
 ## 📊 GitHub Stats
 
 <div align="center">
