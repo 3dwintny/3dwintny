@@ -6,7 +6,7 @@
 
 ### 💻 Full Stack Developer | Building Innovative Digital Solutions
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=61DAFB&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;React+%2B+TypeScript+Expert;Node.js+Backend+Specialist;3%2B+years+of+experience)]()
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=61DAFB&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;React+%2B+TypeScript+Expert;Node.js+Backend+Specialist;3%2B+years+of+experience)](https://git.io/typing-svg)
 
 </div>
 
@@ -17,7 +17,8 @@
 > Passionate developer focused on creating **scalable web applications** and **exceptional user experiences**. Specialized in the JavaScript/TypeScript ecosystem with a focus on **modern architectures** and **best practices**.
 
 🎯 **Currently working on:** Sports management system for the Bowling Association of Quetzaltenango  
-🌱 **Learning:** Microservices with Docker, Cloud Computing  
+🤖 **AI Focus:** Implementation and experimentation with Artificial Intelligence solutions  
+🌱 **Learning:** Microservices with Docker, Cloud Computing, AI/ML integrations  
 ⚡ **Fun fact:** I love optimizing performance and creating interfaces that "just work"
 
 ---
@@ -61,6 +62,25 @@
 - 📊 **Administrative dashboard** with complete management
 - 🗂️ **Robust and documented** RESTful API
 - 🛡️ **Advanced security** with validations and sanitization
+
+### 🌟 Implemented Technical Features
+```typescript
+// Example of clean architecture implementation
+const useAuthenticatedApi = () => {
+  const dispatch = useAppDispatch();
+  const token = useAppSelector(selectAuthToken);
+  
+  return useMemo(() => 
+    createApiClient({
+      baseURL: process.env.VITE_API_URL,
+      token,
+      onUnauthorized: () => dispatch(logout())
+    }), [token, dispatch]
+  );
+};
+```
+
+---
 
 ## 📊 GitHub Stats
 
@@ -111,7 +131,7 @@
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-+502_5722_3341-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/50257223341)
 [![Email](https://img.shields.io/badge/Gmail-edwinmejia4556@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:edwinmejia4556@gmail.com)
 [![Instagram](https://img.shields.io/badge/Instagram-@m__edwintny-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/m_edwintny/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Edwin_Tony-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/edwin-t-mejía-910aa217b/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Edwin_Tony-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/edwin-tony)
 
 </div>
 
